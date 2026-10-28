@@ -1,4 +1,4 @@
-# Maquette — nouveau site du CVC Montfavet
+# Maquette : nouveau site du CVC Montfavet
 
 Maquette de démonstration du futur site du **Christophe Vélo Club Montfavet** (contenus en cours de validation par le club).
 
